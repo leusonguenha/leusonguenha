@@ -1,10 +1,6 @@
--👋 Hi, I'm @leusonguenha.
-👀 I'm interested in programming.
-🌱 I'm currently learning object-oriented programming.
-💞️ I'm looking to collaborate on programming projects.
-📫 How to reach me [Instagram](https://www.instagram.com/leusojustino/)
-
-<!---
-leusonguenha/leusonguenha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="http://criandodevs.vercel.app/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leusonguenha&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leusonguenha&layout=compact">
+</div>
